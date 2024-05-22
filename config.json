@@ -1,0 +1,14 @@
+{
+    "setVolume": "Ctrl+Shift+V",
+    "toggleHeart": "Ctrl+Shift+H",
+    "next": "Ctrl+Shift+N",
+    "back": "Ctrl+Shift+B",
+    "togglePlay": "Ctrl+Shift+P",
+    "play": "Ctrl+Shift+L",
+    "pause": "Ctrl+Shift+U",
+    "toggleMute": "Ctrl+Shift+M",
+    "toggleRepeat": "Ctrl+Shift+R",
+    "toggleShuffle": "Ctrl+Shift+S",
+    "increaseVolume": "Ctrl+Shift+Up",
+    "decreaseVolume": "Ctrl+Shift+Down"
+}
