@@ -4,7 +4,7 @@ An app that bridges the gap between you and easy Spotify playback control.
 
 ## Installation
 
-To use this app, you need to have [Spicetify](https://spicetify.app/) and [controlify-plugin](https://https://github.com/prochy-exe/controlify-plugin) installed.
+To use this app, you need to have [Spicetify](https://spicetify.app/) and [controlify-plugin](https://github.com/prochy-exe/controlify-plugin) installed.
 
 As for controlify itself, just download the zip file, extract it to any directory of your choosing and just run either the tray app or the cli app. You can also run the tray app with the --cli tag, that will run the app in the background with no tray icon and notifications.
 
