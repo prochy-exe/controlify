@@ -9,7 +9,7 @@ To use this app, you need to have [Spicetify](https://spicetify.app/) and [contr
 As for controlify itself, just download the zip file, extract it to any directory of your choosing and just run either the tray app or the cli app. You can also run the tray app with the --cli tag, that will run the app in the background with no tray icon and notifications.
 
 # Features
-- The entirety of toggle-able buttons in Spotify is mapped, to set these shortcuts just modify the config.json
+- The entirety of toggle-able buttons in Spotify is mapped, to set these shortcuts just modify the config.json (WAYLAND IS NOT SUPPORTED!!!)
 - Deej support, so you can directly change the volume of Spotify without affecting other audio sessions (that means you can control the volume of any Spotify Connect device!!!)
 
 ## Usage
